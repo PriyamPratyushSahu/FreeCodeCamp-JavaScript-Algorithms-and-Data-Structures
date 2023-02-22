@@ -9,3 +9,4 @@
 9. Explore Differences Between the var and let Keywords
 10. Declare a Read-Only Variable with the const Keyword
 11. Add Two Numbers with JavaScript
+12. Subtract One Number from Another with JavaScript
