@@ -36,3 +36,4 @@
 36. Use Bracket Notation to Find the Last Character in a String
 37. Use Bracket Notation to Find the Nth-to-Last Character in a String
 38. Word Blanks
+39. Store Multiple Values in one Variable using JavaScript Arrays
