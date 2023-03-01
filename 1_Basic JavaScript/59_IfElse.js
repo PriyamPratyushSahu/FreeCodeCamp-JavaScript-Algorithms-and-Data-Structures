@@ -29,8 +29,6 @@ When test is called with a value of true, the if statement evaluates myCondition
 function trueOrFalse(wasThatTrue) {
   // Only change code below this line
 
-
-
   // Only change code above this line
 
 }
