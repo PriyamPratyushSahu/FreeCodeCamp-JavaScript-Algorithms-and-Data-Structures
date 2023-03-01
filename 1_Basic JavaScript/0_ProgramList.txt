@@ -47,3 +47,4 @@
 47. Manipulate Arrays With unshift Method
 48. Shopping List - Question to solve
 49. Write Reusable JavaScript with Functions
+50. Passing Values to Functions with Arguments
