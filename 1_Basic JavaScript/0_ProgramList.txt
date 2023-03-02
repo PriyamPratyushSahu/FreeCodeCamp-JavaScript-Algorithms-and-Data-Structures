@@ -61,3 +61,4 @@
 61. Comparison with the Strict Equality Operator
 62. Practice comparing different values
 63. Comparison with the Inequality Operator
+64. Comparison with the Strict Inequality Operator
