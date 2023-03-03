@@ -102,3 +102,4 @@
 102. Iterate with JavaScript Do...While Loops
 103. Replace Loops using Recursion
 104. Profile Lookup - Practice Question
+105. Generate Random Fractions with JavaScript
