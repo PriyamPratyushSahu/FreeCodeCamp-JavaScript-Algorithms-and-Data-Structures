@@ -85,3 +85,4 @@
 85. Accessing Object Properties with Bracket Notation
 86. Accessing Object Properties with Variables
 87. Updating Object Properties
+88. Add New Properties to a JavaScript Object
