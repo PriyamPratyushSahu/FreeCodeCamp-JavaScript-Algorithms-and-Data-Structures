@@ -95,3 +95,4 @@
 95. Record Collection - Practice Question
 96. Iterate with JavaScript While Loops
 97. Iterate with JavaScript For Loops
+98. Iterate Odd Numbers With a For Loop
