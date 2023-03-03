@@ -78,3 +78,4 @@
 78. Multiple Identical Options in Switch Statements
 79. Replacing If Else Chains with Switch
 80. Returning Boolean Values from Functions
+81. Return Early Pattern for Functions
