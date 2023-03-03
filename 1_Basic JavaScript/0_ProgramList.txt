@@ -70,3 +70,4 @@
 70. Comparisons with the Logical Or Operator
 71. Introducing Else Statements
 72. Introducing Else If Statements
+73. Logical Order in If Else Statements
