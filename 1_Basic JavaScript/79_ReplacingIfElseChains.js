@@ -71,7 +71,4 @@ function chainToSwitch(val) {
     // Only change code above this line
     return answer;
   }
-  
-
-  
   chainToSwitch(7);
