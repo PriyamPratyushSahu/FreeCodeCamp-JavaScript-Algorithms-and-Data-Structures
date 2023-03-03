@@ -103,3 +103,4 @@
 103. Replace Loops using Recursion
 104. Profile Lookup - Practice Question
 105. Generate Random Fractions with JavaScript
+106. Generate Random Whole Numbers with JavaScript
