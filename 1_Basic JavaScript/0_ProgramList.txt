@@ -73,3 +73,4 @@
 73. Logical Order in If Else Statements
 74. Chaining If Else Statements
 75. Golf Code - If else practice question
+76. Selecting from Many Options with Switch Statements
