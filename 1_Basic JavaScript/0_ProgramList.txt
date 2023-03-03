@@ -76,3 +76,4 @@
 76. Selecting from Many Options with Switch Statements
 77. Adding a Default Option in Switch Statements
 78. Multiple Identical Options in Switch Statements
+79. Replacing If Else Chains with Switch
