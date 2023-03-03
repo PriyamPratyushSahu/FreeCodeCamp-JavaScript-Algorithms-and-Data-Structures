@@ -99,3 +99,4 @@
 99. Count Backwards With a For Loop
 100. Iterate Through an Array with a For Loop
 101. Nesting For Loops
+102. Iterate with JavaScript Do...While Loops
