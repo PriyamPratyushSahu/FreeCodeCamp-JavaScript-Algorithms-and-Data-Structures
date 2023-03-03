@@ -91,3 +91,4 @@
 91. Testing Objects for Properties
 92. Manipulating Complex Objects
 93. Accessing Nested Objects
+94. Accessing Nested Arrays
