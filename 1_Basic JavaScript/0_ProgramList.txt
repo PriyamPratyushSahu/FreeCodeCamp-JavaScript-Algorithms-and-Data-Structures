@@ -86,3 +86,4 @@
 86. Accessing Object Properties with Variables
 87. Updating Object Properties
 88. Add New Properties to a JavaScript Object
+89. Delete Properties from a JavaScript Object
