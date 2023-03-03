@@ -93,3 +93,4 @@
 93. Accessing Nested Objects
 94. Accessing Nested Arrays
 95. Record Collection - Practice Question
+96. Iterate with JavaScript While Loops
