@@ -90,3 +90,4 @@
 90. Using Objects for Lookups
 91. Testing Objects for Properties
 92. Manipulating Complex Objects
+93. Accessing Nested Objects
