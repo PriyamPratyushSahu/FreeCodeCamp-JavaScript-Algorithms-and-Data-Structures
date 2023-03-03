@@ -80,3 +80,4 @@
 80. Returning Boolean Values from Functions
 81. Return Early Pattern for Functions
 82. Counting Cards - Practice Question
+83. Build JavaScript Objects
