@@ -106,3 +106,4 @@
 106. Generate Random Whole Numbers with JavaScript
 107. Generate Random Whole Numbers within a Range
 108. Use the parseInt Function
+109. Use the parseInt Function with a Radix
