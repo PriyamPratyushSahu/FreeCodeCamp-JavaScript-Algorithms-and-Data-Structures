@@ -12,3 +12,4 @@
 12. Use Destructuring Assignment to Assign Variables from Arrays
 13. Destructuring via rest elements
 14. Use Destructuring Assignment to Pass an Object as a Function's Parameters
+15. Create Strings using Template Literals
