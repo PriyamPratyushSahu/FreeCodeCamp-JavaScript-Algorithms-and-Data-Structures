@@ -1,1 +1,2 @@
 1. Compare Scopes of the var and let Keywords
+2. Mutate an Array Declared with const
