@@ -1,3 +1,4 @@
 1. Compare Scopes of the var and let Keywords
 2. Mutate an Array Declared with const
 3. Prevent Object Mutation
+4. Use Arrow Functions to Write Concise Anonymous Functions
