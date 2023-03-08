@@ -4,3 +4,4 @@
 4. Use Arrow Functions to Write Concise Anonymous Functions
 5. Write Arrow Functions with Parameters
 6. Set Default Parameters for Your Functions
+7. Use the Rest Parameter with Function Parameters
