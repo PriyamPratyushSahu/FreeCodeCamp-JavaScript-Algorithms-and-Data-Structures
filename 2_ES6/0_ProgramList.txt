@@ -6,3 +6,4 @@
 6. Set Default Parameters for Your Functions
 7. Use the Rest Parameter with Function Parameters
 8. Use the Spread Operator to Evaluate Arrays In-Place
+9. Use Destructuring Assignment to Extract Values from Objects
