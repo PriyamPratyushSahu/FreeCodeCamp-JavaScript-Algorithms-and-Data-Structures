@@ -2,3 +2,4 @@
 2. Mutate an Array Declared with const
 3. Prevent Object Mutation
 4. Use Arrow Functions to Write Concise Anonymous Functions
+5. Write Arrow Functions with Parameters
