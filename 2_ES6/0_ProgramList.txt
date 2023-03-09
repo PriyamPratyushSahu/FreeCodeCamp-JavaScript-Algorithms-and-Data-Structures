@@ -25,3 +25,4 @@
 25. Import a Default Export
 26. Create a JavaScript Promise
 27. Complete a Promise with resolve and reject
+28. Handle a Fulfilled Promise with then
