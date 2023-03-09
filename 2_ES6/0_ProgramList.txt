@@ -14,3 +14,4 @@
 14. Use Destructuring Assignment to Pass an Object as a Function's Parameters
 15. Create Strings using Template Literals
 16. Write Concise Object Literal Declarations Using Object Property Shorthand
+17. Write Concise Declarative Functions with ES6
