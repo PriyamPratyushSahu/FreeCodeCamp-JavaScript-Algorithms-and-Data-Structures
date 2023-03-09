@@ -19,3 +19,4 @@
 19. Use getters and setters to Control Access to an Object
 20. Create a Module Script
 21. Use export to Share a Code Block
+22. Reuse JavaScript Code Using import
