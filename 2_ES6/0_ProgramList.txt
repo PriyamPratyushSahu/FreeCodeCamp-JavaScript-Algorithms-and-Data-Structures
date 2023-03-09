@@ -20,3 +20,4 @@
 20. Create a Module Script
 21. Use export to Share a Code Block
 22. Reuse JavaScript Code Using import
+23. Use * to Import Everything from a File
