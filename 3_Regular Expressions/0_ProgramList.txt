@@ -1,3 +1,4 @@
 1. Using the Test Method
 2. Match Literal Strings
 3. Match a Literal String with Different Possibilities
+4. Ignore Case While Matching
