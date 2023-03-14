@@ -4,3 +4,4 @@
 4. Ignore Case While Matching
 5. Extract Matches
 6. Find More Than the First Match
+7. Match Anything with Wildcard Period
