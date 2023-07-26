@@ -1,0 +1,8 @@
+1. Using the Test Method
+2. Match Literal Strings
+3. Match a Literal String with Different Possibilities
+4. Ignore Case While Matching
+5. Extract Matches
+6. Find More Than the First Match
+7. Match Anything with Wildcard Period
+8. Match Single Character with Multiple Possibilities
