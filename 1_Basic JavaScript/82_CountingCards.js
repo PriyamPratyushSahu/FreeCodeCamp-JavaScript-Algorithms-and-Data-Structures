@@ -59,9 +59,6 @@ function cc(card) {
   }
   str = (count > 0)? 'Bet' : 'Hold';
   return `${count} ${str}`;
-
-
-  return "Change Me";
   // Only change code above this line
 }
 
