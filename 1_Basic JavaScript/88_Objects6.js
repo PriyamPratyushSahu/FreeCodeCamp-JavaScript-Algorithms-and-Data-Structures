@@ -41,4 +41,5 @@ const myDog = {
     "friends": ["freeCodeCamp Campers"]
   };
   
-  myDog["bark"] = "woof";
+  myDog["bark"] = "woof"; //bracket notation
+  //myDog.bark = "woof"; // dot notation
